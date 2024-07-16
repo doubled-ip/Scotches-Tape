@@ -1,5 +1,5 @@
 # Scotches-Tape
-Extract data and monitor
+Extract data and monitor prices and availability. Set alerts on desired items. Potentially automatically order products.
 
 # Context
 I'm a scotch whiskey enthusiast. I like to find and collect specific bottles.
